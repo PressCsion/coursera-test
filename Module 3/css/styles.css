@@ -1,0 +1,78 @@
+body{
+	font-size:16px;
+	color: #fa4848;
+	background-color: #fa4848;
+	font-family: 'Roboto', sans-serif;
+	
+} 
+
+#header-nav {	
+	background-color: #ffffff;
+	border-radius: 0;
+	border:0;
+}
+
+.navbar-brand h1{ /* Restaurant name */
+	font-family:'Space Grotesk', sans-serif;
+	color: #fa4848;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	margin-top:0 ; 
+	margin-bottom: 0;
+	line-height: .75;
+}
+.Title{
+	font-family:'Space Grotesk', sans-serif;
+	text-align: center;
+	font-weight: 700;
+	color: #ffffff;
+	margin-bottom: 40px;
+	
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #f6a2a2;
+}
+#content-block{
+	background-color: #ffffff;
+}
+.Category{
+	text-align: center;
+	margin-bottom: 40px;
+	font-weight: bold;
+
+}
+.Text{
+	padding: 20px;
+	height: 500px;
+}
+.jumbotron{
+	background-color: white;
+    padding-top: 0px;
+}
+
+#nav-list a{
+	text-align: center;
+	font-weight: bold;
+}
+
+
+/*************** Large devices only **************/
+@media (min-width: 1200px){
+   
+}
+
+/*************** Medium devices only **************/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/*************** Small devices only **************/
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+/*************** Extra small devices only **************/
+@media (max-width: 767px){
+
+
+
+}
