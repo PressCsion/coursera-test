@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+}
+
+#position{
+    background-color: aqua;
+    padding: 14px 22px;
+    text-align: center;
+}
+
+#name{
+    background-color: rgb(255, 47, 0);
+    padding: 14px 22px;
+    text-align: center;
+}
+
+#color{
+    background-color: rgb(10, 244, 45);
+    padding: 14px 22px;
+    text-align: center;
+}
+
