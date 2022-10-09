@@ -38,7 +38,7 @@ var degrade1 = document.getElementById("degrade1")
 
 const b1 = () => {
     const element = document.getElementById("change-image")
-    element.src = "../Portfolio/img/image_final_1.png"
+    element.src = "img/image_final_1.png"
     n.innerHTML ="1:3"
     t1.innerHTML ="Grids"
     p1.innerHTML ="I used a 12 coluns grid systen simulating the bootstrap organization style to make the development of the website easier. In the adaptative process to smart phones I have just stacked the itens and change the distances for an easy use."
@@ -56,7 +56,7 @@ const b1 = () => {
 
 const b2 = () => {
     const element = document.getElementById("change-image")
-    element.src = "../Portfolio/img/image_final_2.png"
+    element.src = "img/image_final_2.png"
     n.innerHTML ="2:3"
     t1.innerHTML ="Bootstrap"
     p1.innerHTML ="I made all the design thinking on the use of it. With it I made a personalized and adaptative design to the website. My biggest focus was in try to make it simple and organized."
@@ -73,7 +73,7 @@ const b2 = () => {
 
 const b3 = () => {
     const element = document.getElementById("change-image")
-    element.src = "../Portfolio/img/image_final_3.png"
+    element.src = "img/image_final_3.png"
     n.innerHTML ="3:3"
     t1.innerHTML ="What I learned"
     p1.innerHTML ="I learned a lot of page orgazanitation and transitions, also about hosting it and make it interactive. Many of the concepts I have about the front-end development that I used in the design page were wrong, I learned a lot of thing that will help me in my UX design path, creating more coherent and realistic designs."
